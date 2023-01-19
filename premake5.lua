@@ -8,8 +8,8 @@ project "ImGui"
     files
     {
         "imconfig.h",
-        "imgui.h",
         "imgui.cpp",
+        "imgui.h",
         "imgui_demo.cpp",
         "imgui_draw.cpp",
         "imgui_internal.h",
